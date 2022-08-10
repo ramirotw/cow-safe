@@ -6,7 +6,7 @@
   "author": "Anxo Rodriguez <anxolin@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@cowprotocol/cow-sdk": "0.0.16-RC.0",
+    "@cowprotocol/cow-sdk": "1.0.0-RC.4",
     "@gnosis.pm/safe-core-sdk": "^2.2.1",
     "@gnosis.pm/safe-core-sdk-types": "^1.2.1",
     "@gnosis.pm/safe-ethers-lib": "^1.2.1",
