@@ -5,7 +5,7 @@
   },
   "order": {
     "sellToken": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
-    "buyToken": "0x4DBCdF9B62e891a7cec5A2568C3F4FAF9E8Abe2b",
+    "buyToken": "0xd0dab4e640d95e9e8a47545598c33e31bdb53c7c",
     "sellAmountBeforeFee": "100000000000000000",
     "partiallyFillable": false,
     "slippageToleranceBips": 50
