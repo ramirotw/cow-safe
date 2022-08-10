@@ -75,7 +75,7 @@ export function getChainId(chainIdParam: number): ChainId {
 
 export function getChainIdFromEnv(): ChainId {
   const chainIdEnv = process.env.CHAIN_ID
-  assert(chainIdEnv, 'CHAIN_ID environmentis required')
+  assert(chainIdEnv, 'CHAIN_ID environment is required')
   const chainId = parseInt(chainIdEnv)
   assert(
     chainIdEnv && SUPPORTED_CHAIN_IDS.includes(chainId),

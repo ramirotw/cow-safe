@@ -425,7 +425,7 @@ async function run() {
         const executeTransaction = await confirm(
           `${chalk.cyan(
             'Would you also like to execute the transaction?'
-          )} This step is not stricltly required. Anyone can execute now the transaction using the UI`
+          )} This step is not strictly required. Anyone can execute now the transaction using the UI`
         )
         if (executeTransaction) {
           const safeTxResult = await safe.executeTransaction(safeTx)
