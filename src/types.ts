@@ -1,4 +1,4 @@
-import { MetaTransactionData } from "@gnosis.pm/safe-core-sdk-types"
+import { MetaTransactionData } from '@gnosis.pm/safe-core-sdk-types'
 
 export type ChainId = 1 | 4 | 5 | 100
 
@@ -22,7 +22,7 @@ export interface LimitOrderParams {
 export interface OrderParams {
   chainId?: ChainId
   account: AccountParams
-  order: LimitOrderParams  
+  order: LimitOrderParams
 }
 
 export type TxRequest = Pick<MetaTransactionData, 'to' | 'value' | 'data'>
