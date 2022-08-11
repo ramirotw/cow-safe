@@ -1,5 +1,7 @@
 # Workshop to trade in cowswap using gnosis-safe through SDK
 
+## https://github.com/ramirotw/cow-safe
+
 The purpose of this workshop is to present how to easily create a market order using [Meta DEX cowswap](https://cowswap.exchange/#/swap?chain=rinkeby) through its [SDK](https://github.com/cowprotocol/cow-sdk). With a simple transaction it encapsulates the steps of pre-signing, approval, even wrapping.
 
 The **slides** presented at the EthLatam Buenos Aires workshop are [**available here**](https://docs.google.com/presentation/d/1ANvWjFz5z0PsWg73VGwvrCeZO6WrgbHXYsl7uyl0q5Y/edit#slide=id.g1439ea46373_1_297).
